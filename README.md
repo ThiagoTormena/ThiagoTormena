@@ -7,5 +7,5 @@
 - 📫 How to reach me: thiagotormena@outlook.com
 - 😄 Pronouns: Ele/Dele, He/Him
 - ⚡ Fun fact: I have a bachelor's degree in Law 
-
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoTormena)](https://github.com/anuraghazra/github-readme-stats)
